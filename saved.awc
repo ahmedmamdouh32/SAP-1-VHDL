@@ -1,0 +1,51 @@
+<config>
+    <version>
+        3.1
+    </version>
+    <comment>
+    </comment>
+    <databases>
+        <database id="">*virtual*</database>
+        <database id="40b034ebc90fce467264c3caae330100">wave.asdb</database>
+    </databases>
+    <gridshown/>
+    <signallists>
+        <signallist id="0">
+        <signal>/SAP1_testbench/clk</signal>
+        <signal>/SAP1_testbench/clr_PC</signal>
+        <signal>/SAP1_testbench/CON</signal>
+        <signal>/SAP1_testbench/wbus</signal>
+        <signal>/SAP1_testbench/ac_to_adder</signal>
+        <signal>/SAP1_testbench/B_to_adder</signal>
+        <signal>/SAP1_testbench/Adder_to_wbus</signal>
+        <signal>/SAP1_testbench/output</signal>
+        </signallist>
+    </signallists>
+    <timebases>
+        <timebase id="0">
+            <time start_time="0" end_time="3970731" />
+        </timebase>
+    </timebases>
+    <prefbases>
+        <prefbase id="0" >
+        </prefbase>
+    </prefbases>
+    <bookmarkbases>
+        <bookmarks id="0">
+        </bookmarks>
+    </bookmarkbases>
+    <cursorbases>
+        <cursors id="0">
+            <cursor value="3089685" label="Cursor 1" locked="0" />
+        </cursors>
+    </cursorbases>
+    <measurementbases>
+    </measurementbases>
+    <commentbases>
+        <comments id="0">
+        </comments>
+    </commentbases>
+    <views>
+        <view signallist="0" propertybase="0" prefbase="-1" type="1" bookmarks="0" cursors="0" measurements="-1" comments="-1" />
+    </views>
+</config>
